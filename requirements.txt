@@ -1,0 +1,5 @@
+flask
+pymongo
+dnspython
+certifi
+pymongo>=4.0
